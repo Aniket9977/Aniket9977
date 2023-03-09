@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aniket9977
-- 👀 I’m interested in WEBD,Coding
-- 🌱 I’m currently learning WEBD
+- 👀 I’m interested in .........
+- 🌱 I’m currently learning WEBD,AIML , Django
 - 💞️ I’m looking to collaborate on any project
 
 
