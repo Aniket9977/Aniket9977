@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Aniket9977
-- 👀 I’m interested in .........
-- 🌱 I’m currently learning WEBD,AIML , Django
-- 💞️ I’m looking to collaborate on any project
-
-
-<!---
-Aniket9977/Aniket9977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Web Development, and Data Science.
+- 🌱 I’m currently pursuing a Bachelor of Technology in Artificial Intelligence and Data Science, and learning more about Web Development, AI/ML, and Django.
+- 💞️ I’m looking to collaborate on AI/ML projects, web development projects, or any innovative tech-related projects.
+- 📫 How to reach me: [aniketvishwakarma459@gmail.com](mailto:aniketvishwakarma459@gmail.com)
